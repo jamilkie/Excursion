@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+background-color: black;
+}
+
+.link {
+  text-align: center;
+}
+
+.video {
+  align: center;
+}
+
+.text {
+  text-align: center;
+}
